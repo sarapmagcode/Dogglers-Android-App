@@ -1,27 +1,15 @@
 Dogglers - Starter Code
 ==================================
-
-Starter code for the second independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
-
-Introduction
-------------
-
-This is the starter code for the Dogglers app project in the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3) of Android Basics [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2). This project is an opportunity for you to demonstrate the concepts you learned in the unit.
-
-Pre-requisites
---------------
-
-- Complete [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2) of Android Basics in Kotlin
-
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the [project instructions](https://developer.android.com/codelabs/basic-android-kotlin-training-project-dogglers-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-project-dogglers-app#0)
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+![image](https://github.com/sarapmagcode/Dogglers-Android-App/assets/85553852/bcaa53d6-d600-4d7b-8880-da3553a2b1bc)
+![Screen Shot 2023-05-14 at 5 59 22 PM](https://github.com/sarapmagcode/Dogglers-Android-App/assets/85553852/5270f608-5d3e-490f-a66d-d1ba2e96bc6d)
+![Screen Shot 2023-05-14 at 6 00 31 PM](https://github.com/sarapmagcode/Dogglers-Android-App/assets/85553852/2bd5a721-3975-4138-8cf5-7985c4ea388b)
+![Screen Shot 2023-05-14 at 6 01 05 PM](https://github.com/sarapmagcode/Dogglers-Android-App/assets/85553852/9dda267a-0bf3-43d0-b7af-5de9edf18bba)
+# Testing
+### Button tests:
+![buttonTests](https://github.com/sarapmagcode/Dogglers-Android-App/assets/85553852/dac717ab-b090-468f-a794-22e2ad84d0ef)
+### Grid list tests:
+![gridListTests](https://github.com/sarapmagcode/Dogglers-Android-App/assets/85553852/88658416-9f5b-4a00-b64f-d6de6a3207d3)
+### Horizontal list tests:
+![horizontalListTests](https://github.com/sarapmagcode/Dogglers-Android-App/assets/85553852/bc0f9f88-c151-47d0-8a5d-a5fdd6ee55f2)
+### Vertical list tests:
+![verticalListsTest](https://github.com/sarapmagcode/Dogglers-Android-App/assets/85553852/59eecdc2-3145-44b5-b39b-98983bee857b)
